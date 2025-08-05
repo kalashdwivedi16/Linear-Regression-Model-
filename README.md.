@@ -38,4 +38,5 @@ This project demonstrates a simple yet effective approach to forecast monthly sa
 ## Requirements
 
 ```bash
+
 pip install pandas numpy matplotlib seaborn scikit-learn
